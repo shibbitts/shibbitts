@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shibbitts
+- 👀 I’m interested in cyber security, SOAR, and Python development
+- 🌱 I’m currently learning how to be a better developer to help support my teammates at Axonius
+- 📫 How to reach me scott.hibbitts@axonius.com or via Slack
